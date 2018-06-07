@@ -1,0 +1,7 @@
+
+*.xml
+ExemploArrayList/build/classes/.netbeans_automatic_build
+ExemploArrayList/build/classes/.netbeans_update_resources
+*.class
+*.mf
+*.properties
